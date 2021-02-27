@@ -7,4 +7,4 @@ Mobile app that identifies and detects Shiba Inus in the provided Image or from 
 Tensorflow and [Firebase MLKit](https://firebase.google.com/docs/ml-kit)
 
 ## iOS
-TBA
+Tensorflow and [Core ML](https://developer.apple.com/documentation/coreml)
